@@ -8,6 +8,9 @@ propensity of customers to switch provider (churn), buy new products or
 sale services (appetency), or buy upgrades or add-ons proposed to them
 to make the sales more profitable (up-selling).
 
+### Team Members
+Rovina Pinto, Harshitha K, Janhavi Kashyap, Wang Sherpa
+
 ## Data
 The dataset consisted of 50000 values in the small dataset. It consisted
 of a subset of 230 variables, 40 of which were categorical. The key
